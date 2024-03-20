@@ -1,0 +1,23 @@
+{
+  "name": "learncampain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamthivan2996/learncampain.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/phamthivan2996/learncampain/issues"
+  },
+  "homepage": "https://github.com/phamthivan2996/learncampain#readme",
+  "dependencies": {
+    "npm-tea-campaign": "^1.0.0",
+	"commonstrings":"1.0.2"
+  }
+}
